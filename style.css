@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(171, 190, 247);
+    line-height: 3;
+    text-align: center;
+   }
+
+.heading {
+    color: rgb(117, 152, 255);
+}
+
+#body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image:url("plaid.jpeg");
+}
+  
+.test_image_and_result {
+    background-color: rgb(195, 206, 241);
+    border-radius: 50px;
+    margin-right: 50px;
+}
